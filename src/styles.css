@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    display:flex;
+    margin: 10px 0;
+}
